@@ -1,0 +1,6 @@
+{
+  "name": "Gem Rewards",
+  "description": "Virtual gem wallet with daily rewards, interactive challenges, referral sharing, and transparent 80/20 reward distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

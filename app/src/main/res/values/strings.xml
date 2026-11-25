@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gem Rewards</string>
+    <string name="wallet_title">Your Gem Wallet</string>
+    <string name="gems_unit">Gems</string>
+    <string name="welcome_message">Welcome to Gem Rewards! Claim daily gems or complete tasks.</string>
+    <string name="daily_reward_action">Daily Demo Reward +5</string>
+    <string name="invite_friends_action">Invite Friends</string>
+    <string name="sponsored_tasks_action">Sponsored Tasks</string>
+    <string name="watch_ad_action">Rewarded Preview</string>
+    <string name="withdrawal_action">Vault Perks &amp; Split</string>
+    <string name="owner_share_label">Owner Share: 20%</string>
+    <string name="user_share_label">User Share: 80%</string>
+    <string name="demo_mode_notice">Virtual Demo Mode • Gems are local rewards</string>
+    <string name="nav_wallet">Wallet</string>
+    <string name="nav_tasks">Earn</string>
+    <string name="nav_rewards">Vault</string>
+    <string name="copyright_footer">© Gem Rewards</string>
+</resources>
